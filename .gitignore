@@ -1,0 +1,19 @@
+# Datasets
+Animal-Detection/
+
+# Virtual Environment
+venv/
+
+# Training Backup
+backup/
+
+# Model Files (Large)
+*.keras
+*.h5
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
